@@ -4,11 +4,11 @@
 	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:#55A557;}
+	.st1{fill:#52C149;}
 	.st2{font-family:'AlwynNewRounded-Medium';}
-	.st3{font-size:260px;}
+	.st3{font-size:270px;}
+	.st4{letter-spacing:-1;}
 </style>
 <rect class="st0" width="300" height="300"/>
-<text transform="matrix(1 0 0 1 3.1017 244.3797)" class="st1 st2 st3">P</text>
-<text transform="matrix(1 0 0 1 149.7417 244.3797)" class="st1 st2 st3">4</text>
+<text transform="matrix(1 0 0 1 2.9865 248.0096)"><tspan x="0" y="0" class="st1 st2 st3">P</tspan><tspan x="152.28" y="0" class="st1 st2 st3 st4">5</tspan></text>
 </svg>
